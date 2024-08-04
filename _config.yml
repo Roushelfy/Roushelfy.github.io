@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : 超级幽默 # Username
-  bilibili         : Roushelfy # Username
+  bilibili         : 255689524 # UID
   telegram         : # URL
   tumblr           : # Username
   twitter          : roushelfy # Username for X / Twitter
