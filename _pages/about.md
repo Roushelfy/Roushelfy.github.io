@@ -13,13 +13,13 @@ Hello! I'm Zhaofeng Luo, a passionate undergraduate student at the School of Ele
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-         Check out my recent GPU solid simulation tutorial code [here](https://github.com/phys-sim-book/solid-sim-tutorial-gpu) and the corresponding course material [here](https://phys-sim-book.github.io/lec4.6-gpu_accel.html).
+         Check out my recent GPU solid simulation tutorial code <a href="https://github.com/phys-sim-book/solid-sim-tutorial-gpu">here</a> and the corresponding course material <a href="https://phys-sim-book.github.io/lec4.6-gpu_accel.html">here</a>.
     </div>
     <div style="flex: 1;">
         <img src="/images/publication_book.jpg" alt="Image" style="width: 50%;">
     </div>
 </div>
 
-## Extracurricular Activities
+## Hobbies
 Beyond academics, I have a keen interest in sports, particularly tennis. I served as the captain of the School of EECS tennis team, where we made numerous victories togeter. I'm also the president of the Peking University Student Tennis Association, where I've organized several tennis tournaments and classes.
 
