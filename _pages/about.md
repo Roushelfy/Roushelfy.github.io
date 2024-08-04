@@ -9,8 +9,10 @@ redirect_from:
 
 Hello! I'm Zhaofeng Luo, a passionate undergraduate student at the School of Electronics Engineering and Computer Science at Peking University. 
 ## Academic Interests
- I've spent a year researching wireless communication, focusing on developing optical feedback architectures for high-mobility wireless laser links. Currently, my interests have shifted to physics-based simulations, particularly in real-time 3D modeling and interactions. 
+ I've spent a year researching **wireless communication**, focusing on developing optical feedback architectures for high-mobility wireless laser links. Currently, my interests have shifted to **physics-based simulations**. 
 
+
+## News
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
          Check out my recent GPU solid simulation tutorial code <a href="https://github.com/phys-sim-book/solid-sim-tutorial-gpu">here</a> and the corresponding course material <a href="https://phys-sim-book.github.io/lec4.6-gpu_accel.html">here</a>.
