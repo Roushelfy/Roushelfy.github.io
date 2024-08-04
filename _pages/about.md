@@ -16,7 +16,7 @@ Hello! I'm Zhaofeng Luo, a passionate undergraduate student at the School of Ele
          Check out my recent GPU solid simulation tutorial code [here](https://github.com/phys-sim-book/solid-sim-tutorial-gpu) and the corresponding course material [here](https://phys-sim-book.github.io/lec4.6-gpu_accel.html).
     </div>
     <div style="flex: 1;">
-        <img src="/images/solid-sim-gpu.png" alt="Image" style="width: 50%;">
+        <img src="/images/publication_book.jpg" alt="Image" style="width: 50%;">
     </div>
 </div>
 
