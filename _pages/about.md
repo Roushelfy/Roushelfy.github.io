@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Zhaofeng Luo, a passionate undergraduate student at the School of Electronics Engineering and Computer Science at Peking University. 
 ## Academic Interests
- I've spent a year researching **wireless communication**, focusing on developing optical feedback architectures for high-mobility wireless laser links. Currently, my interests have shifted to **physics-based simulations**. 
+I am focused on **computer graphics** and **physics-based simulations**, with particular interest in integrating **machine learning** to enhance the realism and efficiency of real-time simulations. My work aims to improve simulations for applications in **virtual reality** and **interactive media**, as well as explore new methods for merging traditional techniques with data-driven models.
 
 
 ## News
