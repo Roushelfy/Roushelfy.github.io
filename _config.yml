@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhaofeng Luo"
-  pronouns         : # example: "she/her"  
-  bio              : "A hard-working student in Peking University"
-  location         : "Beijing, China"
-  employer         : "Peking University"
+  pronouns         : # example: "she/her"
+  bio              : "PhD student at Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
+  employer         : "Carnegie Mellon University"
   uri              : "https://Roushelfy.github.io" # Used for author profile link
   email            : "roushelfy@stu.pku.edu.cn"
 
