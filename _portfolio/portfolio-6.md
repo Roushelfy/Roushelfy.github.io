@@ -1,6 +1,6 @@
 ---
 title: "A Self-Adaptive Retro-FSO Design for Air-to-Ground Communication"
-excerpt: "Novel free-space optical communication system for high-speed air-to-ground connectivity.<br/><img src='/images/500x300.png'>"
+excerpt: "Novel free-space optical communication system for high-speed air-to-ground connectivity.<br/>"
 collection: portfolio
 ---
 
