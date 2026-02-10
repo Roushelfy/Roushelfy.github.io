@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:spirimirror.github.io)",
+      "WebFetch(domain:arxiv.org)"
+    ]
+  }
+}
