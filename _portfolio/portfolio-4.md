@@ -6,6 +6,10 @@ collection: portfolio
 
 ## Robust and Efficient Penetration-Free Elastodynamics without Barriers
 
+**Publication:** ACM Transactions on Graphics (SIGGRAPH 2026 Journal Track)
+
+**Project Website:** [https://simulation-intelligence.github.io/barrier-free/](https://simulation-intelligence.github.io/barrier-free/)
+
 **arXiv Paper:** [https://arxiv.org/abs/2512.12151v1/](https://arxiv.org/abs/2512.12151v1/)
 
 ### Authors
@@ -23,10 +27,11 @@ This research presents an optimization approach for simulating elastic objects w
 - **GPU optimization** enabling up to **103x speedup** over GIPC on challenging, contact-rich benchmarks
 
 ### Publication Information
+- **Venue:** ACM Transactions on Graphics (SIGGRAPH 2026 Journal Track)
 - **arXiv:** 2512.12151v1
 - **Submitted:** December 13, 2025
 - **Category:** Computer Science > Graphics (cs.GR)
-- **DOI:** https://doi.org/10.48550/arXiv.2512.12151
+- **DOI:** https://doi.org/10.1145/3811035
 
 ### Open Source
 The authors have committed to open-sourcing their code and supplementary materials.
