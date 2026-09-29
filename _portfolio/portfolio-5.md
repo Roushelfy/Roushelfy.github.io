@@ -13,7 +13,12 @@ display_order: 5
 **Recognition:** Top 10 Technical Papers Fast Forward
 
 ### Authors
-Zhaofeng Luo, Zhitong Cui, Shijian Luo, Mengyu Chu, Minchen Li
+**Zhaofeng Luo**<sup>*</sup>, Zhitong Cui<sup>*</sup>, Shijian Luo, Mengyu Chu, Minchen Li
+
+<sup>*</sup>Equal contribution (co-first authors).
+
+### My Contribution
+I implemented and tested the entire VR-Doh system.
 
 ### Overview
 We present VR-Doh, an intuitive system for 3D object creation and manipulation in Virtual Reality. Using the Material Point Method (MPM) for real-time elastoplastic object simulation, our system enables sculpting, deforming, and editing objects through natural hand interactions.

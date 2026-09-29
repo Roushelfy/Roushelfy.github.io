@@ -12,6 +12,8 @@ display_order: 1
 
 **Zhaofeng Luo**, Xinyu Lu, Jaehoon Choi, Zhehuan Chen, Trinity Chung, Xiaowen Qiu, Hugh Nicholas Perkins, Gianna Calderon, Alexis Duburcq, Sanghyun Son, Tsun-Hsuan Wang, Yi-Ling Qiao, Minchen Li
 
+**My role:** Sole first author.
+
 ### Overview
 
 Dispensing adhesive tape combines a flexible strip, a moving roll, and interfaces that repeatedly attach and detach. Resolving every wound layer is costly and can suppress roll motion at practical solver tolerances. TapeSim uses a rigid cluster for most wound material and an advancing deformable collar near the unwinding region, preserving a flexible, reattachable released strip.

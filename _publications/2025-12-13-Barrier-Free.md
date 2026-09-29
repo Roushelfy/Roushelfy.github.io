@@ -9,6 +9,8 @@ paperurl: "https://arxiv.org/abs/2512.12151"
 ---
 Juntian Zheng, Zhaofeng Luo, Minchen Li
 
+**My contributions:** My primary contributions were method testing and optimization.
+
 **Accepted to the SIGGRAPH 2026 journal track (ACM Transactions on Graphics).**
 
 We present an optimization approach for simulating elastic objects without physical penetration. Our method addresses efficiency challenges in existing methods by eliminating logarithmic barrier functions that cause poorly conditioned mathematical systems and resolving "time-of-impact locking" that slows collision detection in complex scenes.

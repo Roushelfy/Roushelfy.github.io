@@ -16,6 +16,9 @@ display_order: 3
 ### Authors
 Juntian Zheng, Zhaofeng Luo, Minchen Li
 
+### My Contributions
+My primary contributions were method testing and optimization.
+
 ### Abstract
 This research presents an optimization approach for simulating elastic objects without physical penetration. The method addresses efficiency challenges in existing methods by:
 
