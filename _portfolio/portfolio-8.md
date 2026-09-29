@@ -2,6 +2,7 @@
 title: "AGIPC: Adaptive In-Solve Algebraic Coarsening for GPU IPC"
 excerpt: "A GPU-oriented method that dynamically reduces degrees of freedom within the Newton solve of implicit time integration, achieving up to 3x speedup over a state-of-the-art GPU IPC solver.<br/><img src='/images/agipc-teaser-1.jpg'>"
 collection: portfolio
+display_order: 2
 ---
 
 ## AGIPC: Adaptive In-Solve Algebraic Coarsening for GPU IPC
@@ -26,7 +27,7 @@ Implicit time integration is key to robustly simulating stiff materials and larg
 - **Venue:** ACM SIGGRAPH 2026 Conference Papers
 - **arXiv:** 2605.04773 (cs.GR, cs.PF)
 - **Submitted:** May 6, 2026
-- **DOI:** https://doi.org/10.48550/arXiv.2605.04773
+- **Publication DOI:** https://doi.org/10.1145/3799902.3811199
 
 ### Resources
 - [arXiv Paper](https://arxiv.org/abs/2605.04773)

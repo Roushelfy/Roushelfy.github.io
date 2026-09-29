@@ -2,6 +2,7 @@
 title: "Physics-based Simulation - GPU Acceleration Tutorial"
 excerpt: "Open-source tutorial and course material on GPU-accelerated solid simulation methods.<br/><img src='/images/publication_book.jpg'>"
 collection: portfolio
+display_order: 7
 ---
 
 ## Physics-based Simulation - GPU Acceleration Tutorial

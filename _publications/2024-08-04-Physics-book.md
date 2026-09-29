@@ -1,6 +1,7 @@
 ---
 title: "Physics-based Simulation"
 collection: publications
+resource: true
 permalink: /publications/2024-08-04-Physics-book
 date: 2024-08-04
 venue: "Open-Source Online Book"

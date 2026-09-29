@@ -2,15 +2,22 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+description: "Publications and preprints by Zhaofeng Luo on physics simulation, GPU contact solvers, MPM, and robotic manipulation."
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
+## Papers and Preprints
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% unless post.resource %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+
+## Software and Educational Resources
+
+{% for post in site.publications reversed %}
+  {% if post.resource %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

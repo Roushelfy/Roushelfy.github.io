@@ -1,0 +1,54 @@
+/* Selected research follows the existing academic page typography. */
+.research-feature {
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  padding: 1.25em 0;
+  border-bottom: 1px solid $border-color;
+
+  h3 { margin: 0 0 0.55em; }
+  p { margin: 0 0 0.65em; }
+
+  .research-feature__meta {
+    margin-bottom: 0.5em;
+    color: $gray;
+    font-size: 0.8em;
+  }
+
+  .research-feature__links {
+    margin-bottom: 0;
+    font-size: 0.9em;
+  }
+}
+
+.research-feature__text {
+  flex: 1 1 60%;
+  min-width: 0;
+}
+
+.research-feature__image {
+  flex: 0 1 38%;
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.research-feature--spotlight {
+  padding: 1.25em;
+  margin: 1em 0;
+  background: mix(#fff, $link-color, 96%);
+  border: 1px solid $border-color;
+  border-left: 3px solid $link-color;
+  border-radius: 3px;
+}
+
+@media (max-width: 600px) {
+  .research-feature {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.85em;
+  }
+  .research-feature__image { flex-basis: auto; }
+}

@@ -2,6 +2,7 @@
 title: "Robust and Efficient Penetration-Free Elastodynamics without Barriers"
 excerpt: "A novel optimization approach for simulating elastic objects without physical penetration, achieving up to 103x speedup over existing methods.<br/><img src='/images/barrier_free_teaser.jpg'>"
 collection: portfolio
+display_order: 3
 ---
 
 ## Robust and Efficient Penetration-Free Elastodynamics without Barriers

@@ -2,6 +2,7 @@
 title: "VR-Doh: Hands-on 3D Modeling in Virtual Reality"
 excerpt: "An intuitive system for 3D object creation and manipulation in VR using Material Point Method for real-time elastoplastic simulation.<br/><img src='/images/VR-Doh-Teaser.jpg'>"
 collection: portfolio
+display_order: 5
 ---
 
 ## VR-Doh: Hands-on 3D Modeling in Virtual Reality

@@ -3,8 +3,9 @@ title: "Robust and Efficient Penetration-Free Elastodynamics without Barriers"
 collection: publications
 permalink: /publications/2025-12-13-Barrier-Free
 date: 2025-12-13
+publication_year: 2026
 venue: "ACM Transactions on Graphics (SIGGRAPH 2026 Journal Track)"
-paperurl: "https://arxiv.org/abs/2512.12151v1/"
+paperurl: "https://arxiv.org/abs/2512.12151"
 ---
 Juntian Zheng, Zhaofeng Luo, Minchen Li
 
@@ -19,6 +20,6 @@ We present an optimization approach for simulating elastic objects without physi
 
 The authors have committed to open-sourcing their code and supplementary materials.
 
-[Project Page](https://simulation-intelligence.github.io/barrier-free/) | [arXiv Paper](https://arxiv.org/abs/2512.12151v1/) | [DOI](https://doi.org/10.1145/3811035)
+[Project Page](https://simulation-intelligence.github.io/barrier-free/) | [arXiv Paper](https://arxiv.org/abs/2512.12151) | [DOI](https://doi.org/10.1145/3811035)
 
 ![Image](/images/barrier_free_teaser.jpg)

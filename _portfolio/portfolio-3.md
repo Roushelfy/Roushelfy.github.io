@@ -2,6 +2,7 @@
 title: "Libuipc: Library of Unified Incremental Potential Contact"
 excerpt: "A cross-platform C++20 library offering a unified GPU incremental potential contact framework for simulating dynamics of rigid bodies, soft bodies, cloth, and threads.<br/><img src='/images/uipc_teaser.png'>"
 collection: portfolio
+display_order: 6
 ---
 
 ## Libuipc: Library of Unified Incremental Potential Contact
@@ -28,5 +29,5 @@ The University of Hong Kong, TransGP, Carnegie Mellon University, Peking Univers
 - **StiffGIPC** (2025) - ACM Transactions on Graphics, Vol. 44, No. 3, presented at SIGGRAPH 2025
 - **GIPC** (2024) - ACM Transactions on Graphics, Vol. 43, No. 2
 
-### Status
-Version 0.9.0 (Alpha) released November 2024; v1.0.0 forthcoming.
+### Releases
+See the [project website](https://spirimirror.github.io/libuipc-web/) for current releases and documentation.
