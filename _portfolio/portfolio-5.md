@@ -18,7 +18,7 @@ display_order: 5
 <sup>*</sup>Equal contribution (co-first authors).
 
 ### My Contribution
-I implemented and tested the entire VR-Doh system.
+I designed, implemented, and tested the entire VR-Doh system.
 
 ### Overview
 We present VR-Doh, an intuitive system for 3D object creation and manipulation in Virtual Reality. Using the Material Point Method (MPM) for real-time elastoplastic object simulation, our system enables sculpting, deforming, and editing objects through natural hand interactions.

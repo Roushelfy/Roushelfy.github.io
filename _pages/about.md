@@ -60,7 +60,7 @@ I develop **robust and efficient physics-based simulation methods**, with a focu
   <div class="research-feature__text">
     <p class="research-feature__meta">SIGGRAPH 2025 · ACM Transactions on Graphics</p>
     <h3><a href="{{ '/portfolio/portfolio-5/' | relative_url }}">VR-Doh: Hands-on 3D Modeling in Virtual Reality</a></h3>
-    <p>An interactive modeling system that combines MPM-based elastoplastic simulation and natural hand interaction. I implemented and tested the full system. Selected as a <strong>Top 10 Technical Papers Fast Forward</strong>.</p>
+    <p>An interactive modeling system that combines MPM-based elastoplastic simulation and natural hand interaction. I designed, implemented, and tested the full system. Selected as a <strong>Top 10 Technical Papers Fast Forward</strong>.</p>
     <p class="research-feature__links"><a href="{{ '/portfolio/portfolio-5/' | relative_url }}">Overview</a> · <a href="https://simulation-intelligence.github.io/VR-Doh/">Project and paper</a></p>
   </div>
   <a class="research-feature__image" href="{{ '/portfolio/portfolio-5/' | relative_url }}"><img src="{{ '/images/VR-Doh-Teaser.jpg' | relative_url }}" alt="Hands-on modeling examples from VR-Doh" loading="lazy"></a>

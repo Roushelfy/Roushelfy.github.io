@@ -14,9 +14,6 @@ display_order: 2
 ### Authors
 Xuan Wang, Zhaofeng Luo, Minchen Li, Taku Komura, Kemeng Huang
 
-### My Contributions
-My primary contributions were method testing and optimization.
-
 ### Abstract
 Implicit time integration is key to robustly simulating stiff materials and large deformations, but its performance is often dominated by repeatedly solving large linear systems. Adaptive coarsening can reduce this cost by concentrating degrees of freedom (DoF) where they are most needed, yet conventional explicit remeshing changes connectivity and vertex ordering, complicating parallel implementations and harming memory locality. We present algebraic adaptive in-solve coarsening, a GPU-oriented method that dynamically reduces DoF within the Newton solve of implicit time integration without explicit topological modification.
 
