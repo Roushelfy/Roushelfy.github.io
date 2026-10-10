@@ -1,12 +1,12 @@
 ---
 title: "TapeSim: Efficient Simulation of Adhesive Tape Dispensing for Robotic Manipulation"
-excerpt: "Adhesive tape dispensing with a reduced roll model, an advancing deformable collar, and flexible released tape. Preprint; under review at ICRA 2027."
+excerpt: "Adhesive tape dispensing with a reduced roll model, an advancing deformable collar, and flexible released tape. Preprint."
 collection: portfolio
 permalink: /portfolio/tapesim/
 display_order: 1
 ---
 
-**Preprint; under review at ICRA 2027.** [Paper (arXiv v2)](https://arxiv.org/abs/2609.28766v2)
+**Preprint.** [Paper (arXiv v2)](https://arxiv.org/abs/2609.28766v2)
 
 ### Authors
 

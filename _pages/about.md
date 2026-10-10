@@ -18,7 +18,7 @@ I develop **robust and efficient physics-based simulation methods**, with a focu
 
 <article class="research-feature research-feature--spotlight">
   <div class="research-feature__text">
-    <p class="research-feature__meta">2026 · Sole first author · Preprint · Under review at ICRA 2027</p>
+    <p class="research-feature__meta">2026 · Sole first author · Preprint</p>
     <h3><a href="{{ '/portfolio/tapesim/' | relative_url }}">TapeSim: Adhesive Tape for Robotic Manipulation</a></h3>
     <p>TapeSim models a dispensing roll with a rigid cluster, an advancing deformable collar, and a flexible, reattachable strip. The simulator supports attachment, dispensing, cutting, and sealing in a continuous teleoperated box-sealing workflow.</p>
     <p>At 32 turns, clustering gives <strong>4.5–8.4× faster mean physics steps at comparable roll motion</strong>. Evaluation includes real-motion replays and paired real-to-sim manipulation cases.</p>
